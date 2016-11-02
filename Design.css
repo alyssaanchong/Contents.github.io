@@ -1,7 +1,7 @@
 img{
-  height:250px;
-  width:250px;
+  height:3000px;
+  width:300px;
 }
-#{
+html{
   background-color:gray;
 }
