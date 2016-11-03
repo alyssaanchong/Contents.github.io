@@ -6,5 +6,7 @@ h4{
   padding-top:50px;
 }
 h1{
-  font:Edwardian Script ITC;
+  font-family:Edwardian Script ITC;
+  color:gray;
+  font:cursive;
 }
